@@ -17,11 +17,11 @@ This project focuses on **preprocessing raw video** data to prepare it for downs
 
 # 📂 Folder Structure
 # video-preprocessing/
-├── input_videos/       # Raw video files
-├── output_frames/      # Processed frames
-├── scripts/            # Preprocessing scripts
-├── requirements.txt    # Required packages
-└── README.md
+ - Raw video files
+ - Processed frames
+ - Preprocessing scripts
+ - Required packages
+
 
 # 🚀How to Run
   - Clone the repository
